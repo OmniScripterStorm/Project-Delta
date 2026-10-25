@@ -1,10 +1,4 @@
--- Napoleon Hub / Tribes 3v3 -- standalone client/executor script
--- Original implementation. No downloads, forged remote calls, or external UI libraries.
--- GUI controls: ESP, aim, arc, names, target part, FOV, minimize and unload.
--- Enable AIM in the panel; aim follows only during a bow draw. Insert toggles the menu.
--- Standalone pure-engine ballistics & predictive aimbot. Zero module dependencies.
--- Jump prediction models gravity and an estimated landing.
--- Run in the live game client.
+-- Napoleon Hub / Tribes 3v3
 
 local Config = {
     ESP = true,
